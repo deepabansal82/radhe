@@ -1,5 +1,5 @@
 # Table of contents
 
 * [bhaiya doc](README.md)
-* [Untitled](doc.md)
+* [bhaiya doc](doc.md)
 
