@@ -1,4 +1,4 @@
-# bhaiya doc
+# doc.md
 
 You can use the [editor on GitHub](https://github.com/deepabansal82/radhe/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
